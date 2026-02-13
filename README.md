@@ -1,14 +1,14 @@
 # MY-Portfolio
 # Hello, I'm J'Quan
 <a href="https://linkedin.com/in/j-quan-ellison-cooper-2207a2376"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-I’m an unarmed security guard transitioning from physical security into cybersecurity.
+I’m currently transitioning from physical security into cybersecurity.
 My experience in incident response, access control, and vigilance supports my move into IT and digital security.
-I’m building technical skills to move into help desk and grow into a cybersecurity analyst role.
+I’m building technical skills to d grow into a cybersecurity analyst role.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in secrity  has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
