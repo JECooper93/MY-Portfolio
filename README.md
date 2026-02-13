@@ -1,6 +1,7 @@
 # MY-Portfolio
 # Hello, I'm J'Quan
 <a href="https://linkedin.com/in/j-quan-ellison-cooper-2207a2376"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 I’m currently transitioning from physical security into cybersecurity.
 My experience in incident response, access control, and vigilance supports my move into IT and digital security.
 I’m building technical skills to d grow into a cybersecurity analyst role.
